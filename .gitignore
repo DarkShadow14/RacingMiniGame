@@ -5,14 +5,18 @@
 /[Bb]uilds/
 /Assets/OtherAssets/
 /Assets/Plugins/
-/Assets/Standard Assets/
 /Assets/AssetStoreTools/
+/Assets/_MK/
 /Assets/Concrete textures pack/
 /Assets/EasyRoads3D/
 /Assets/EasyRoads3D scenes/
 /Assets/Metal textures pack/
 /Assets/NatureStarterKit2/
+/Assets/SampleScenes/
+/Assets/Skybox/
+/Assets/Standard Assets/
 /Assets/Yughues Fabric Materials/
+
 
 # Visual Studio 2015 cache directory
 /.vs/
