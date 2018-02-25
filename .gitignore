@@ -3,7 +3,16 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
-/Assets/AssetStoreTools*
+/Assets/OtherAssets/
+/Assets/Plugins/
+/Assets/Standard Assets/
+/Assets/AssetStoreTools/
+/Assets/Concrete textures pack/
+/Assets/EasyRoads3D/
+/Assets/EasyRoads3D scenes/
+/Assets/Metal textures pack/
+/Assets/NatureStarterKit2/
+/Assets/Yughues Fabric Materials/
 
 # Visual Studio 2015 cache directory
 /.vs/
